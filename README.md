@@ -1,4 +1,4 @@
-# resolvendo-problemas
+# Resolvendo Problemas 
 
 Repositório com problemas resolvidos para vídeos do canal https://www.youtube.com/queroserprogramador
 
