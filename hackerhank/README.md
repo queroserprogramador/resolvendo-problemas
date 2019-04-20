@@ -3,6 +3,8 @@ Resolvendo Problemas no HackerHank
 
 **Site:** https://www.hackerrank.com
 
+[Vídeos resolvendo os problemas](https://www.youtube.com/watch?v=g7Oq7wcy9fk&list=PLzehOqhpwpxg80n3Ejg00Dnwy1Ta3ueiu)
+
 **Como utilizar esse repositório como guia:**  
 Como o HackerHank é em inglês e essa não é nossa língua nativa, nesse repositório você encontra os problemas em português e suas resoluções em alguma linguagem.
 Uma sugestão de estudo depois de criar uma conta na plataforma: 
